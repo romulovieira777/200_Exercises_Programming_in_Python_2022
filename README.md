@@ -8,6 +8,8 @@
 - [Section 05 - II. Calculations in Python](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_05_II_Calculations_in_Python)
 - [Section 06 - III. Slicing](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_06_III_Slicing)
 - [Section 07 - IV. Data Types](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_07_IV_Data_Types)
-- [Section 08 - V. Strings]()
+- [Section 08 - V. Strings](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_08_V_Strings)
+- [Section 09 - Data Structures](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_09_Data_Structures)
+- [Section 10 - I. Sets]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
