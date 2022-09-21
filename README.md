@@ -12,6 +12,7 @@
 - [Section 09 - Data Structures](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_09_Data_Structures)
 - [Section 10 - I. Sets](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_10_I_Sets)
 - [Section 11 - II. Tuples](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_11_II_Tuples)
-- [Section 12 - III. Lists]()
+- [Section 12 - III. Lists](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_12_III_Lists)
+- [Section 13 - IV. Dictionaries]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
