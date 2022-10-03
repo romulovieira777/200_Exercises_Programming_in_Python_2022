@@ -17,6 +17,7 @@
 - [Section 14 - Program Flow Control](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_14_Program_Flow_Control)
 - [Section 15 - I. If Statement](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_15_If_Statement)
 - [Section 16 - II. For Loop](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_16_II_For_Loop)
-- [Section 17 - III. The Break Statement]()
+- [Section 17 - III. The Break Statement](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_17_III_The_Break_Statement)
+- [Section 18 - IV. The Continue Statement]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
