@@ -23,6 +23,7 @@ for name in names:
         continue
     print(name)
 
+
 # Solution II
 for name in names:
     if not isinstance(name, str):
