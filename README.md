@@ -20,5 +20,6 @@
 - [Section 17 - III. The Break Statement](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_17_III_The_Break_Statement)
 - [Section 18 - IV. The Continue Statement](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_18_IV_The_Continue_Statement)
 - [Section 19 - V. While Loop](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_19_V_While_Loop)
+- [Section 20 - VI. Exception Handling]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
