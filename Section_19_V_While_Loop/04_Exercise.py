@@ -34,7 +34,6 @@ end = len(numbers) - 1
 flag = None
 
 # Soulution 1
-
 while start <= end:
     mid = (start + end) // 2
     if numbers[mid] == target:
@@ -51,7 +50,6 @@ else:
     print('Not found')
 
 # Soulution 2
-
 while start <= end:
     mid = int((start + end) / 2)
     if numbers[mid] == target:
