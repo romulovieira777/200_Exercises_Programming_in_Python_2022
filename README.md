@@ -22,6 +22,7 @@
 - [Section 19 - V. While Loop](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_19_V_While_Loop)
 - [Section 20 - VI. Exception Handling](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_20_VI_Exception_Handling)
 - [Section 21 - Input / Output](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_21_Input_Output)
-- [Section 22 - I. Reading Files]()
+- [Section 22 - I. Reading Files](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_22_I_Reading_Files)
+- [Section 23 - II. Saving to File](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_23_II_Saving_to_File)
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
