@@ -37,3 +37,6 @@ def maximum(x, y, z):
         return y
     else:
         return z
+
+
+print(maximum(4, 2, 1))

@@ -19,3 +19,6 @@ def maximum(a, b):
         return a
     else:
         return b
+
+
+print(maximum(4, 2))
