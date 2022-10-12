@@ -27,5 +27,6 @@
 - [Section 24 - Functions](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_24_Functions)
 - [Section 25 - I. Built-in Functions](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_25_I_Builtin_Functions)
 - [Section 26 - II. Defining Your Own Functions](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_26_II_Defining_Your_Own_Functions)
+- [Section 27 - III. Lambda Expression]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
