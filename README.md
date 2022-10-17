@@ -30,6 +30,6 @@
 - [Section 27 - III. Lambda Expression](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_27_III_Lambda_Expression)
 - [Section 28 - IV. Generators](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_28_IV_Generators)
 - [Section 29 - Transformation Of Data Structures](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_29_Transformation_Of_Data_Structures)
-- [Section 30 - I. Set Comprehension]()
+- [Section 30 - I. Set Comprehension](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_30_I_Set_Comprehension)
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
