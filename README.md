@@ -31,6 +31,7 @@
 - [Section 28 - IV. Generators](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_28_IV_Generators)
 - [Section 29 - Transformation Of Data Structures](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_29_Transformation_Of_Data_Structures)
 - [Section 30 - I. Set Comprehension](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_30_I_Set_Comprehension)
-- [Section 31 - II. List Comprehension]()
+- [Section 31 - II. List Comprehension](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_31_II_List_Comprehension)
+- [Section 32 - III. Dict Comprehension]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
