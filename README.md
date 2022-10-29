@@ -37,6 +37,6 @@
 - [Section 34 - I. Built-In Packages](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_34_I_BuiltIn_Packages)
 - [Section 35 - Summary](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_35_Summary)
 - [Section 36 - I. Exercises](https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_36_I_Exercises)
-- [Section 37 - Bonus()
+- [Section 37 - Bonus(https://github.com/romulovieira777/200_Exercises_Programming_in_Python_2022/tree/main/Section_37_Bonus)
 
 Link to the course: [Udemy](https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/)
